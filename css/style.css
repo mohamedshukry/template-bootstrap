@@ -1,0 +1,21 @@
+.header{
+	position: fixed;
+	width: 100%;
+	z-index: 9;
+	background-color: white;
+}
+.header .bg-light{
+	background-color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+	font-size: 20px;
+	color: black;
+}
+.team .card{
+}
+
+.tesmaniales{
+	background-color: #eee;
+	margin-top: 70px;
+	padding: 50px 0;
+}
